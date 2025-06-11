@@ -34,66 +34,71 @@ Como Desarrollador Full Stack, poseo un dominio actualizado de las tecnologías 
 
 
 
-**Lenguajes de Programación:**
+### **Lenguajes de Programación:**
 
-* JavaScript
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/> JavaScript
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25"/> TypeScript
 
-* TypeScript
+---
 
+### **Frameworks y Librerías:**
 
+#### **Backend:**
 
-**Frameworks y Librerías:**
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/> Node.js
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="25" height="25"/> NestJS
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="25" height="25"/> Express.js
 
-* **Backend:** Node.js, NestJS, Express.js
+#### **Frontend:**
 
-* **Frontend:** React, React Router DOM, Vite
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25"/> React
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="React Router DOM" width="25" height="25"/> React Router DOM
+* <img src="https://vitejs.dev/logo.svg" alt="Vite" width="25" height="25"/> Vite
 
-* **Estado:** Redux 
+#### **Estado:**
 
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="25" height="25"/> Redux
 
+---
 
-**Bases de Datos y ORMs:**
+### **Bases de Datos y ORMs:**
 
-* PostgreSQL
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/> PostgreSQL
+* <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_transparent.png" alt="TypeORM" width="25" height="25"/> TypeORM
 
-* TypeORM
+---
 
+### **Herramientas de Desarrollo:**
 
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25"/> Git
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="25" height="25"/> npm
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" width="25" height="25"/> Yarn
+* <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25"/> Postman
+* <img src="https://avatars.githubusercontent.com/u/10049447?s=200&v=4" alt="Nodemon" width="25" height="25"/> Nodemon
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="25" height="25"/> ESLint
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg" alt="Prettier" width="25" height="25"/> Prettier
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="25" height="25"/> Jest
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="25" height="25"/> Swagger
 
-**Herramientas de Desarrollo:**
+---
 
-* Git 
+### **Servicios Cloud:**
 
-* npm, Yarn
+* <img src="https://seeklogo.com/images/C/cloudinary-logo-E31976DD78-seeklogo.com.png" alt="Cloudinary" width="25" height="25"/> Cloudinary
 
-* Postman
+---
 
-* Nodemon
+### **Metodologías Ágiles:**
 
-* ESLint, Prettier
+* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Scrum_Logomark.svg" alt="Scrum" width="25" height="25"/> Scrum
 
-* Jest 
+---
 
-* Swagger 
+### **Herramientas de Colaboración:**
 
-
-
-**Servicios Cloud:**
-
-* Cloudinary
-
-
-
-**Metodologías Ágiles:**
-
-* Scrum
-
-
-
-**Herramientas de Colaboración:**
-
-* Jira, Confluence, Slack
-
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="25" height="25"/> Jira
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Atlassian_Confluence_logo.svg/1200px-Atlassian_Confluence_logo.svg.png" alt="Confluence" width="25" height="25"/> Confluence
+* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="25" height="25"/> Slack
 
 
 ---
