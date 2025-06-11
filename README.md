@@ -20,8 +20,7 @@ Como Desarrollador Full Stack, poseo un dominio actualizado de las tecnologías 
 
 ### **Lenguajes de Programación:**
 
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="25" height="25"/> JavaScript
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="25" height="25"/> TypeScript
+<img src="./assets/javascript-original.svg" alt="JavaScript" width="25" height="25"/> <img src="./assets/typescript-original.svg" alt="TypeScript" width="25" height="25"/>
 
 ---
 
@@ -29,40 +28,46 @@ Como Desarrollador Full Stack, poseo un dominio actualizado de las tecnologías 
 
 #### **Backend:**
 
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="25" height="25"/> Node.js
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="NestJS" width="25" height="25"/> NestJS
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="25" height="25"/> Express.js
+<img src="./assets/nodejs-original.svg" alt="Node.js" width="25" height="25"/> <img src="./assets/nestjs-original.svg" alt="NestJS" width="25" height="25"/> <img src="./assets/express-original.svg" alt="Express.js" width="25" height="25"/>
 
 #### **Frontend:**
 
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="25" height="25"/> React
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="React Router DOM" width="25" height="25"/> React Router DOM
-* <img src="https://vitejs.dev/logo.svg" alt="Vite" width="25" height="25"/> Vite
+<img src="./assets/react-original.svg" alt="React" width="25" height="25"/> <img src="./assets/reactrouter-original.svg" alt="React Router DOM" width="25" height="25"/> <img src="./assets/vite-original.svg" alt="Vite" width="25" height="25"/>
 
 #### **Estado:**
 
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="25" height="25"/> Redux
+<img src="./assets/redux-original.svg" alt="Redux" width="25" height="25"/>
 
 ---
 
 ### **Bases de Datos y ORMs:**
 
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/> PostgreSQL
-* <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_transparent.png" alt="TypeORM" width="25" height="25"/> TypeORM
+<img src="./assets/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/> <img src="./assets/typeorm-original.svg" alt="TypeORM" width="25" height="25"/>
 
 ---
 
 ### **Herramientas de Desarrollo:**
 
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="25" height="25"/> Git
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="25" height="25"/> npm
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" width="25" height="25"/> Yarn
-* <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25"/> Postman
-* <img src="https://raw.githubusercontent.com/nodemonio/nodemon/main/nodemon.png" alt="Nodemon" width="25" height="25"/> Nodemon
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="25" height="25"/> ESLint
-* <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.svg" alt="Prettier" width="25" height="25"/> Prettier
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="25" height="25"/> Jest
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="25" height="25"/> Swagger
+<img src="./assets/git-original.svg" alt="Git" width="25" height="25"/> <img src="./assets/npm-original.svg" alt="npm" width="25" height="25"/> <img src="./assets/yarn-original.svg" alt="Yarn" width="25" height="25"/> <img src="./assets/postman-original.svg" alt="Postman" width="25" height="25"/> <img src="./assets/nodemon-original.svg" alt="Nodemon" width="25" height="25"/> <img src="./assets/eslint-original.svg" alt="ESLint" width="25" height="25"/> <img src="./assets/prettier-original.svg" alt="Prettier" width="25" height="25"/> <img src="./assets/jest-original.svg" alt="Jest" width="25" height="25"/> <img src="./assets/swagger-original.svg" alt="Swagger" width="25" height="25"/>
+
+---
+
+### **Servicios Cloud:**
+
+<img src="./assets/cloudinary-original.svg" alt="Cloudinary" width="25" height="25"/>
+
+---
+
+### **Metodologías Ágiles:**
+
+<img src="./assets/scrum-original.png" alt="Scrum" width="25" height="25"/>
+
+---
+
+### **Herramientas de Colaboración:**
+
+<img src="./assets/jira-original.svg" alt="Jira" width="25" height="25"/> <img src="./assets/confluence-original.svg" alt="Confluence" width="25" height="25"/> <img src="./assets/slack-original.svg" alt="Slack" width="25" height="25"/>
+ 
 
 ---
 
