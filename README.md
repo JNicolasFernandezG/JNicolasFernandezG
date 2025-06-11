@@ -20,7 +20,8 @@ Como Desarrollador Full Stack, poseo un dominio actualizado de las tecnologías 
 
 ### **Lenguajes de Programación:**
 
-<img src="./assets/javascript-original.svg" alt="JavaScript" width="25" height="25"/> <img src="./assets/typescript-original.svg" alt="TypeScript" width="25" height="25"/>
+* <img src="./assets/javascript-original.svg" alt="JavaScript" width="25" height="25"/> JavaScript
+* <img src="./assets/typescript-original.svg" alt="TypeScript" width="25" height="25"/> TypeScript
 
 ---
 
@@ -28,47 +29,61 @@ Como Desarrollador Full Stack, poseo un dominio actualizado de las tecnologías 
 
 #### **Backend:**
 
-<img src="./assets/nodejs-original.svg" alt="Node.js" width="25" height="25"/> <img src="./assets/nestjs-original.svg" alt="NestJS" width="25" height="25"/> <img src="./assets/express-original.svg" alt="Express.js" width="25" height="25"/>
+* <img src="./assets/nodejs-original.svg" alt="Node.js" width="25" height="25"/> Node.js
+* <img src="./assets/nestjs-original.svg" alt="NestJS" width="25" height="25"/> NestJS
+* <img src="./assets/express-original.svg" alt="Express.js" width="25" height="25"/> Express.js
 
 #### **Frontend:**
 
-<img src="./assets/react-original.svg" alt="React" width="25" height="25"/> <img src="./assets/reactrouter-original.svg" alt="React Router DOM" width="25" height="25"/> <img src="./assets/vite-original.svg" alt="Vite" width="25" height="25"/>
+* <img src="./assets/react-original.svg" alt="React" width="25" height="25"/> React
+* <img src="./assets/reactrouter-original.svg" alt="React Router DOM" width="25" height="25"/> React Router DOM
+* <img src="./assets/vite-original.svg" alt="Vite" width="25" height="25"/> Vite
 
 #### **Estado:**
 
-<img src="./assets/redux-original.svg" alt="Redux" width="25" height="25"/>
+* <img src="./assets/redux-original.svg" alt="Redux" width="25" height="25"/> Redux
 
 ---
 
 ### **Bases de Datos y ORMs:**
 
-<img src="./assets/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/> <img src="./assets/typeorm-original.svg" alt="TypeORM" width="25" height="25"/>
+* <img src="./assets/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/> PostgreSQL
+* <img src="./assets/typeorm-original.svg" alt="TypeORM" width="25" height="25"/> TypeORM
 
 ---
 
 ### **Herramientas de Desarrollo:**
 
-<img src="./assets/git-original.svg" alt="Git" width="25" height="25"/> <img src="./assets/npm-original.svg" alt="npm" width="25" height="25"/> <img src="./assets/yarn-original.svg" alt="Yarn" width="25" height="25"/> <img src="./assets/postman-original.svg" alt="Postman" width="25" height="25"/> <img src="./assets/nodemon-original.svg" alt="Nodemon" width="25" height="25"/> <img src="./assets/eslint-original.svg" alt="ESLint" width="25" height="25"/> <img src="./assets/prettier-original.svg" alt="Prettier" width="25" height="25"/> <img src="./assets/jest-original.svg" alt="Jest" width="25" height="25"/> <img src="./assets/swagger-original.svg" alt="Swagger" width="25" height="25"/>
+* <img src="./assets/git-original.svg" alt="Git" width="25" height="25"/> Git
+* <img src="./assets/npm-original.svg" alt="npm" width="25" height="25"/> npm
+* <img src="./assets/yarn-original.svg" alt="Yarn" width="25" height="25"/> Yarn
+* <img src="./assets/postman-original.svg" alt="Postman" width="25" height="25"/> Postman
+* <img src="./assets/nodemon-original.svg" alt="Nodemon" width="25" height="25"/> Nodemon
+* <img src="./assets/eslint-original.svg" alt="ESLint" width="25" height="25"/> ESLint
+* <img src="./assets/prettier-original.svg" alt="Prettier" width="25" height="25"/> Prettier
+* <img src="./assets/jest-original.svg" alt="Jest" width="25" height="25"/> Jest
+* <img src="./assets/swagger-original.svg" alt="Swagger" width="25" height="25"/> Swagger
 
 ---
 
 ### **Servicios Cloud:**
 
-<img src="./assets/cloudinary-original.svg" alt="Cloudinary" width="25" height="25"/>
+* <img src="./assets/cloudinary-original.svg" alt="Cloudinary" width="25" height="25"/> Cloudinary
 
 ---
 
 ### **Metodologías Ágiles:**
 
-<img src="./assets/scrum-original.png" alt="Scrum" width="25" height="25"/>
+* <img src="./assets/scrum-original.png" alt="Scrum" width="25" height="25"/> Scrum
 
 ---
 
 ### **Herramientas de Colaboración:**
 
-<img src="./assets/jira-original.svg" alt="Jira" width="25" height="25"/> <img src="./assets/confluence-original.svg" alt="Confluence" width="25" height="25"/> <img src="./assets/slack-original.svg" alt="Slack" width="25" height="25"/>
+* <img src="./assets/jira-original.svg" alt="Jira" width="25" height="25"/> Jira
+* <img src="./assets/confluence-original.svg" alt="Confluence" width="25" height="25"/> Confluence
+* <img src="./assets/slack-original.svg" alt="Slack" width="25" height="25"/>
  
-
 ---
 
 ### **Servicios Cloud:**
