@@ -10,22 +10,6 @@ Soy un **Desarrollador Full Stack** apasionado por transformar desafíos en solu
 
 
 
-### 🚀 **Acerca de Mí y Mi Viaje**
-
-
-
-Mi interés por la tecnología nació desde muy joven, desarmando y modificando computadoras en la primaria y secundaria, buscando cómo el código podía hacer que las máquinas obedecieran mi curiosidad. Tras años en entornos de alta exigencia, abracé plenamente esta pasión. A pesar de los desafíos que implicaron estudiar intensamente mientras gestionaba otras responsabilidades, mi capacidad de **soportar y avanzar** me permitió superar cada curva de aprendizaje y entrega.
-
-
-
-Hoy, me destaco por mi **persistencia inquebrantable** y mi enfoque en la **resolución de problemas complejos**. Estoy comprometido con la excelencia, la mejora continua y siempre busco explorar nuevas fronteras en el vasto mundo de la programación.
-
-
-
----
-
-
-
 ### 🛠️ **Mis Habilidades Técnicas**
 
 
