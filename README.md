@@ -64,7 +64,7 @@ Como Desarrollador Full Stack, poseo un dominio actualizado de las tecnologías 
 ### **Bases de Datos y ORMs:**
 
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="25" height="25"/> PostgreSQL
-* <img src="https://www.vectorlogo.zone/logos/typeorm/typeorm-icon.svg" alt="TypeORM" width="25" height="25"/> TypeORM
+* <img src="https://raw.githubusercontent.com/typeorm/typeorm/master/resources/logo_transparent.png" alt="TypeORM" width="25" height="25"/> TypeORM
 
 ---
 
@@ -74,9 +74,9 @@ Como Desarrollador Full Stack, poseo un dominio actualizado de las tecnologías 
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="25" height="25"/> npm
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/yarn/yarn-original.svg" alt="Yarn" width="25" height="25"/> Yarn
 * <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="25" height="25"/> Postman
-* <img src="https://avatars.githubusercontent.com/u/10049447?s=200&v=4" alt="Nodemon" width="25" height="25"/> Nodemon
+* <img src="https://raw.githubusercontent.com/nodemonio/nodemon/main/nodemon.png" alt="Nodemon" width="25" height="25"/> Nodemon
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eslint/eslint-original.svg" alt="ESLint" width="25" height="25"/> ESLint
-* <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prettier/prettier-original.svg" alt="Prettier" width="25" height="25"/> Prettier
+* <img src="https://raw.githubusercontent.com/prettier/prettier-logo/master/images/prettier-icon-light.svg" alt="Prettier" width="25" height="25"/> Prettier
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="25" height="25"/> Jest
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" alt="Swagger" width="25" height="25"/> Swagger
 
@@ -90,16 +90,16 @@ Como Desarrollador Full Stack, poseo un dominio actualizado de las tecnologías 
 
 ### **Metodologías Ágiles:**
 
-* <img src="https://www.vectorlogo.zone/logos/scrumorg/scrumorg-icon.svg" alt="Scrum" width="25" height="25"/> Scrum
+* <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Scrum_Logomark.svg" alt="Scrum" width="25" height="25"/> Scrum
 
 ---
 
 ### **Herramientas de Colaboración:**
 
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jira/jira-original.svg" alt="Jira" width="25" height="25"/> Jira
-* <img src="https://www.vectorlogo.zone/logos/atlassian_confluence/atlassian_confluence-icon.svg" alt="Confluence" width="25" height="25"/> Confluence
+* <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Atlassian_Confluence_logo.svg/1200px-Atlassian_Confluence_logo.svg.png" alt="Confluence" width="25" height="25"/> Confluence
 * <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="Slack" width="25" height="25"/> Slack
-
+  
 ---
 
 
