@@ -1,9 +1,9 @@
 # 🚀 ¡Hola! Soy Jorge Nicolás Fernández Gamarra  
 ### 💻 **Desarrollador Full Stack** con foco en backend robusto  
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzJXG/giphy.gif" width="500" alt="Coding gif" />
-</p>
+<div align="center">
+  <img src="https://i.gifer.com/xK.gif" width="100%" alt="Code development animation"/>
+</div>
 
 ---
 
@@ -63,6 +63,6 @@
 💼 [LinkedIn](https://linkedin.com/in/jorge-nicolas-fernandez-gamarra)  
 🔗 [GitHub](https://github.com/JNicolasFernandezG)  
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FFC3&width=600&lines=Transformando+lógica+en+soluciones+reales" alt="Typing SVG" />
-</p>
+<div align="right">
+  <img src="https://i.gifer.com/Hihj.gif" width="150" alt="Developer mindset"/>
+</div>
