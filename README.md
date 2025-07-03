@@ -45,13 +45,23 @@
 
 ---
 
-## 🏆 **Proyecto Destacado**  
-### 🛒 **E-commerce Full Stack**  
-**Backend:** Node.js + NestJS + PostgreSQL/MongoDB + Docker  
-**Frontend:** React + Redux + Vite  
-**Features:** Microservicios, Auth JWT, Cloudinary  
+## 🏆 **Proyectos Destacados**  
 
-🔗 [Código fuente](https://github.com/pi-rym/PM4BE-JNicolasFernandezG)  
+### 🏡 **KasApp - Plataforma Inmobiliaria**  
+[![Sitio en Producción](https://img.shields.io/badge/🌐_Sitio_en_Producción-KasApp-2ea44f?style=for-the-badge)](https://kasapp.sytes.net/)  
+**Tecnologías**: Next.js + NestJS + PostgreSQL  
+**Features**:  
+- Panel administrativo multi-rol  
+- Gestión de propiedades con drag & drop  
+- Autenticación JWT con refresh tokens  
+- Dashboard analítico integrado  
+
+### 🛒 **E-commerce Full Stack**  
+**Tecnologías**: Node.js + NestJS + React + MongoDB  
+**Features**:  
+- Microservicios escalables  
+- Sistema de pagos integrado  
+- Panel CMS para gestión de productos  
 
 ---
 
@@ -67,6 +77,20 @@
 💼 [LinkedIn](https://linkedin.com/in/jorge-nicolas-fernandez-gamarra)  
 🔗 [GitHub](https://github.com/JNicolasFernandezG)  
 
-<div align="right">
-  <img src="https://i.gifer.com/Hihj.gif" width="150" alt="Estratega tecnológico"/>
+## 📊 **GitHub Stats**
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://i.gifer.com/3BBS.gif" width="120" alt="Estrategia de ajedrez"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=JNicolasFernandezG&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Estadísticas" />
+      </td>
+      <td>
+        <img src="https://i.gifer.com/Hihj.gif" width="120" alt="Pensamiento estratégico"/>
+      </td>
+    </tr>
+  </table>
 </div>
