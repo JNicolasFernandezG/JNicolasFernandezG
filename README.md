@@ -1,5 +1,5 @@
-# 🚀 ¡Hola! Soy Jorge Nicolás Fernández Gamarra  
-### 💻 **Desarrollador Full Stack** con foco en backend robusto  
+# ♟️ ¡Hola! Soy Jorge Nicolás Fernández Gamarra  
+### 🔥 **Desarrollador Full Stack** | Especialista en Arquitecturas Escalables  
 
 <div align="center">
   <img src="https://i.gifer.com/xK.gif" width="100%" alt="Code development animation"/>
@@ -7,7 +7,7 @@
 
 ---
 
-## 🔥 **Stack Tecnológico**  
+## ⚡ **Stack Tecnológico**  
 
 ### 🔷 **Lenguajes**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -25,7 +25,11 @@
 
 ### 🗃️ **Bases de Datos**  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=fff)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=fff)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0909?style=for-the-badge&logo=typeorm&logoColor=fff)
+
+### 🐳 **Contenedores**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=fff)
 
 ### 🛠️ **Herramientas**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=fff)
@@ -43,18 +47,18 @@
 
 ## 🏆 **Proyecto Destacado**  
 ### 🛒 **E-commerce Full Stack**  
-**Backend:** Node.js + NestJS + PostgreSQL + JWT  
+**Backend:** Node.js + NestJS + PostgreSQL/MongoDB + Docker  
 **Frontend:** React + Redux + Vite  
-**Features:** Auth, Cloudinary, TypeORM, Panel Admin  
+**Features:** Microservicios, Auth JWT, Cloudinary  
 
 🔗 [Código fuente](https://github.com/pi-rym/PM4BE-JNicolasFernandezG)  
 
 ---
 
-## 🌟 **Mi Valor**  
-» Arquitectura limpia y escalable  
-» APIs RESTful optimizadas  
-» Pasión por el código mantenible  
+## 🧠 **Mi Enfoque**  
+» Estrategias técnicas como piezas de ajedrez  
+» Soluciones que escalan bajo presión  
+» Código limpio = Movimientos precisos  
 
 ---
 
@@ -64,5 +68,5 @@
 🔗 [GitHub](https://github.com/JNicolasFernandezG)  
 
 <div align="right">
-  <img src="https://i.gifer.com/Hihj.gif" width="150" alt="Developer mindset"/>
+  <img src="https://i.gifer.com/Hihj.gif" width="150" alt="Estratega tecnológico"/>
 </div>
