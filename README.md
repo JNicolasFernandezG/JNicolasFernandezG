@@ -86,7 +86,7 @@
         <img src="https://i.gifer.com/3BBS.gif" width="120" alt="Estrategia de ajedrez"/>
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=JNicolasFernandezG&theme=radical" />
+        <img src="https://github-readme-stats-git-masterhst-p-github-readme-stats.vercel.app/api?username=JNicolasFernandezG&show_icons=true&theme=radical&hide_border=true" />
       </td>
       <td>
         <img src="https://i.gifer.com/Hihj.gif" width="120" alt="Pensamiento estratégico"/>
