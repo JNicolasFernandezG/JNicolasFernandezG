@@ -1,5 +1,5 @@
-# ♟️ ¡Hola! Soy Jorge Nicolás Fernández Gamarra  
-### 🔥 **Desarrollador Full Stack** | Especialista en Arquitecturas Escalables  
+# ¡Hola! Soy Jorge Nicolás Fernández Gamarra  
+### **Desarrollador Full Stack** | Especialista en Arquitecturas Escalables  
 
 <div align="center">
   <img src="https://i.gifer.com/xK.gif" width="100%" alt="Code development animation"/>
@@ -7,7 +7,7 @@
 
 ---
 
-## ⚡ **Stack Tecnológico**  
+## **Stack Tecnológico**  
 
 ### 🔷 **Lenguajes**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
@@ -45,9 +45,9 @@
 
 ---
 
-## 🏆 **Proyectos Destacados**  
+## **Proyectos Destacados**  
 
-### 🏡 **KasApp - Plataforma Inmobiliaria**  
+### **KasApp - Plataforma Inmobiliaria**  
 [![Sitio en Producción](https://img.shields.io/badge/🌐_Sitio_en_Producción-KasApp-2ea44f?style=for-the-badge)](https://kasapp.sytes.net/)  
 **Tecnologías**: Next.js + NestJS + PostgreSQL  
 **Features**:  
@@ -65,19 +65,19 @@
 
 ---
 
-## 🧠 **Mi Enfoque**  
+## **Mi Enfoque**  
 » Estrategias técnicas como piezas de ajedrez  
 » Soluciones que escalan bajo presión  
 » Código limpio = Movimientos precisos  
 
 ---
 
-## 📬 **Contacto**  
+## **Contacto**  
 📧 nicolas.fernandezgamarra@gmail.com  
 💼 [LinkedIn](https://linkedin.com/in/jorge-nicolas-fernandez-gamarra)  
 🔗 [GitHub](https://github.com/JNicolasFernandezG)  
 
-## 📊 **GitHub Stats**
+## **GitHub Stats**
 
 <div align="center">
   <table>
